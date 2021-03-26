@@ -1,0 +1,11 @@
+name: React App CD
+
+on:
+  push:
+    branches:
+    - main
+    - releases/*
+
+env:
+  owner: sushant-awalekar
+  domain: github.io
