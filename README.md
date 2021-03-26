@@ -24,4 +24,4 @@
 
 ## [Click here to get started with the workshop](workshop/workshop_instructions1.md)
 
-[![React App CI](https://github.com/sushant-awalekar/ci-cd-with-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/sushant-awalekar/ci-cd-with-actions/actions/workflows/ci.yml)
+[![React App CI](https://github.com/sushant-awalekar/ci-cd-with-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/sushant-awalekar/ci-cd-with-actions/actions/workflows/ci.yml) 
